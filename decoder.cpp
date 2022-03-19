@@ -1,3 +1,7 @@
+/// Shifting alphabets decoder
+/// Prints all possible decoded texts and you can check on them with your eyes quickly to see which one is your text
+
+
 #include<iostream>
 #include<string>
 using namespace std;
